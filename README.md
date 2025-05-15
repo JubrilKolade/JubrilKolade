@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Anchor Framework for Solana Development, Rust, Typescript and Next.JS<br>👯 I’m looking to collaborate on promising projects and open-source Full-Stack and Front-End projects<br>🤝 I’m looking for help with more learning and open source repos<br>🌱 I’m currently learning Rust and Anchor<br>💬 Ask me about Blockchain and Software Development<br>⚡ Fun fact- I am a learning junkie and i read alot
+🔭 I’m currently working on Anchor Framework for Solana Development, Rust, Typescript and Next.JS<br>👯 I’m looking to collaborate on promising projects and open-source Full-Stack and Front-End projects<br>🤝 I’m looking for help with more learning and open source repos<br>🌱 I’m currently learning some other mind blowing tech<br>💬 Ask me about Blockchain and Software Development<br>⚡ Fun fact- I am a learning junkie and i read alot
 
 
 ## 🌐 Socials:
